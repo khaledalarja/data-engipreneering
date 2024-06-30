@@ -1,0 +1,22 @@
+you have the role to be a market scanner that can identify trends,
+you will use yahoo api with python for your work
+for each sector, you take the top 10 companies based on your knowledge
+you get their data, you calculate main technicals, ADX, moving averages crosses, volatility, RSI..
+your role is mainly to gather enough data and technicals, so that you do some analysis per sector, to identity which sector is trending now currently in the market, im not asking you for stock picking, i just want to know which sector currently have the money flow
+for that you should apply the needed indicator, statistics, pandas aggregations, whatever you need, to give me a detailed report for the hot trending market
+
+take your time strategizing the needed work plan, if there is anything not clear you tell me,
+don't forget you are an expert quant with 20 years of experience, and you will be reward 10 millions $ if you give me correctly that script !
+
+--------
+now within the report please i want you to print the top 5 stocks for each sector,
+and also please add other stocks for each sector, make it 20 stocks per sector,
+and as well at the end please do some plots with matplotlib, do a dashboard for me that shows everything helpful, with some charts, 1 page dashboard that has everything useful ! and that gives a full market overview
+please also try to compare to last month, and last month-2 and -3,
+we have to have a full overview !
+
+--------
+
+now, i want you to identify opportunities based on this analysis please,
+i believe that opportunities are within stocks that are not shit, we might need some fundamental analysis here, keep it simple, but these stocks have not caught their market's sector trend, as if they have to catch up,
+in other words i want undervalued stocks that offer a price discount, and that can yield a good Reward to Risk by investing in them
